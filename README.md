@@ -2,6 +2,8 @@
 
 Webpack 官方网站 [`Webpack`](https://webpack.github.io/docs/)、[`github`](https://github.com/webpack/webpack)地址。
 
+Demo [在线演示地址](https://xu-duo.github.io/webpack-demo/dist/)
+
 ## Webpack 安装
 对于 windows 系统，先要进行全局安装。
 ```
