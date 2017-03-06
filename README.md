@@ -18,8 +18,6 @@ npm install webpack --save-dev  //生成 node_modules 文件夹
 
 ## 创建文件
 创建源文件夹 src，放置项目需要的 css、img、js 文件；创建 dist 文件夹，放置打包后生成的文件。    
-目录如下：    
-![](https://github.com/xu-duo/xu-duo.github.io/blob/master/2017/03/06/webpack%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%B0%8Fdemo/1.png)
 
 #### index.html 文件
 在 webpack-demo 目录下创建 index.html 文件
@@ -34,6 +32,8 @@ npm install webpack --save-dev  //生成 node_modules 文件夹
   </body>
   </html>
   ```
+目录如下：    
+![](https://github.com/xu-duo/xu-duo.github.io/blob/master/2017/03/06/webpack%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%B0%8Fdemo/1.png)
 
 #### 配置文件
 在 webpack-demo 目录下创建 webpack.config.js 文件。
